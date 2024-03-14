@@ -1,6 +1,8 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, Myself Ajay S</h1>
 <h3 align="center">A passionate Student from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=Y%2bvLhKwz&id=816A6FB27802A30739466CA63DFE703C61FC2E92&thid=OIP.Y-vLhKwztu9Y-Nf5bqkgJgHaEK&mediaurl=https%3a%2f%2fwallpaperaccess.com%2ffull%2f5673721.jpg&exph=1080&expw=1920&q=programming&simid=608040655381349506&FORM=IRPRST&ck=101C9BF284150A3EABEEB30CCDD6FF64&selectedIndex=4&itb=0&ajaxhist=0&ajaxserp=0">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajay2303" alt="ajay2303" /></a> </p>
 
