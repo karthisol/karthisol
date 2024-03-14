@@ -15,67 +15,11 @@
 <a href="https://linkedin.com/in/ajaysakthivel23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajaysakthivel23" height="30" width="40" /></a>
 </p>
 
-<table><tr><td valign="top" width="25%">
-  
-## Languages 
-<div align="center">  
-<a href="https://www.python.org" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>  
-<div align="center">  
-    <a href="https://www.java.com" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-</div>
+	
+	
 
 	
-</div>
-
-</td><td valign="top" width="25%">
-
-## Databases  
-<div align="center">  
-  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 	
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-
- 
-</div>
-
-</td><td valign="top" width="25%">
-  
-## DevOps  
-<div align="center">  
-
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-
-</div>
-</td>
-	
-	
-	
-<td valign="top" width="25%">
-  
-## Bigdata 
-	
-<div align="center"> 	
-	 <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>
-	
-</div>
-	
-	
-<td valign="top" width="25%">
-
- ## Image processing
-	
-<div align="center"> 	
-	<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-	
-</div>	
-	
-	
-	
-	
-</td></tr></table> 
 
 
 
