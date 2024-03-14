@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, Myself Ajay S</h1>
 <h3 align="center">A passionate Student from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajay2303" alt="ajay2303" /></a> </p>
 
